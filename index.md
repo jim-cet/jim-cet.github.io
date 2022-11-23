@@ -47,4 +47,7 @@ https://www.geeksforgeeks.org/python-try-except/
 #### Build, Run, and Test Dependencies
 http://wiki.ros.org/catkin/package.xml#Build.2C_Run.2C_and_Test_Dependencies
 
+#### Simple publisher subscriber node line by line commented
+https://jim-cet.github.io/simple_publisher.md
 
+https://jim-cet.github.io/simple_subscriber.md
