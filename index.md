@@ -38,6 +38,9 @@ line that you write at the beginning of the python script is called shebang.
 it indicates the path to the python interpreter.
 read more @ https://dev.to/meleu/what-the-shebang-really-does-and-why-it-s-so-important-in-your-shell-scripts-2755
 
+#### What does if __name__ == "__main__": do?
+https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+
 #### Python Try Except
 https://www.geeksforgeeks.org/python-try-except/
 
