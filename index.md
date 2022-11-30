@@ -3,10 +3,10 @@
 
 #### Simple publisher subscriber node line by line commented
 <!-- Publisher [link] (https://jim-cet.github.io/simple_publisher.md) -->
-<a href="Publisher">simple_publisher</a>
+<a href="simple_publisher">Publisher</a>
 
 <!-- Subscriber [link] (https://jim-cet.github.io/simple_subscriber.md) -->
-<a href="Publisher">simple_subscriber</a>
+<a href="simple_subscriber">Subscriber</a>
 
 #### ROS wiki
 http://wiki.ros.org/
