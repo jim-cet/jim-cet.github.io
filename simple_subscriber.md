@@ -1,4 +1,4 @@
-## A ROS subsriber node with line 
+## A ROS subsriber node line by line commented
 
 #!/usr/bin/env python    # shebang 
 
@@ -23,4 +23,5 @@ def lab_subscriber1(): # subscriber function
     rospy.spin() #  simply keeps your node from exiting until the node has been shutdown
 
 if __name__=='__main__': # ensures that the code runs only when its is executed as script
+
     lab_subscriber1() # call the subscriber function
