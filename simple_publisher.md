@@ -31,7 +31,7 @@ def lab_publisher1(): # function for the publisher
         rate.sleep() # sleep for 2 seconds (ie rate )
 
 
-if __name__=='__main__': # ensures that the code runs only when its is executed as script
+if __name__=='__main__':
     try:
         lab_publisher1() # call the function lab_publisher1
         

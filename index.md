@@ -2,9 +2,9 @@
 ===========
 
 #### Simple publisher subscriber node line by line commented
-https://jim-cet.github.io/simple_publisher.md
+[Publisher] (https://jim-cet.github.io/simple_publisher.md)
 
-https://jim-cet.github.io/simple_subscriber.md
+[Subscriber] (https://jim-cet.github.io/simple_subscriber.md)
 
 #### ROS wiki
 http://wiki.ros.org/
@@ -41,7 +41,7 @@ https://youtu.be/HVsySz-h9r4
  #!/usr/bin/env python
 line that you write at the beginning of the python script is called shebang.
 it indicates the path to the python interpreter.
-read more @ https://dev.to/meleu/what-the-shebang-really-does-and-why-it-s-so-important-in-your-shell-scripts-2755
+[read more] @ (https://dev.to/meleu/what-the-shebang-really-does-and-why-it-s-so-important-in-your-shell-scripts-2755)
 
 #### What does if __name__ == "__main__": do?
 https://stackoverflow.com/questions/419163/what-does-if-name-main-do
