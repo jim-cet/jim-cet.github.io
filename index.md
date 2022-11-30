@@ -2,9 +2,9 @@
 ===========
 
 #### Simple publisher subscriber node line by line commented
-[Publisher] (https://jim-cet.github.io/simple_publisher.md)
+Publisher [link] (https://jim-cet.github.io/simple_publisher.md)
 
-[Subscriber] (https://jim-cet.github.io/simple_subscriber.md)
+Subscriber [link] (https://jim-cet.github.io/simple_subscriber.md)
 
 #### ROS wiki
 http://wiki.ros.org/
